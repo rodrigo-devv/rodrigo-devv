@@ -5,8 +5,8 @@
   
 <hr>
 <pre>
-💻 Self taught Full Stack Developer in progress
-🧑‍💻 Working on my portifolio
+💻 Self taught full stack dev in progress
+🧑‍💻 Working on my portifólio
 🔭 I’m currently looking for an <b>job opportunity</b> as front-end junior for react or react native
 </pre>
 <hr>
