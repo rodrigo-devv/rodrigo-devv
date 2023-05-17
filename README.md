@@ -1,6 +1,6 @@
 <div align="center"> <img align="center" width="25" height="25" src="https://cdn3.emoji.gg/emojis/7097-icon-verified.png"> </div>
 
-#### Front-end developer. That enjoy building user-friendly and visually appealing web/mobile applications. In addition to coding, I enjoy staying up-to-date with the latest development trends and exploring new technologies and always learning something new!
+#### Front-end developer. That enjoy building user-friendly and visually appealing web/mobile applications. In addition to coding, I enjoy staying up-to-date with the latest development trends, exploring new technologies and always learning something new!
 
   
 <hr>
