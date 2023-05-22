@@ -38,7 +38,7 @@
   
 </div>
 <details align="center"> 
-  <summary>GitHub Status 📊</summary>
+  <summary>GitHub Stats 📊</summary>
   
   ##
   
