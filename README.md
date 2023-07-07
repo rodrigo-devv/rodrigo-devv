@@ -7,7 +7,6 @@
 <pre>
 💻 Self taught full stack dev in progress
 🧑‍💻 Working on my portifólio
-🔭 I’m currently looking for an <b>job opportunity</b> as front-end junior for react/react native
 </pre>
 <hr>
 
